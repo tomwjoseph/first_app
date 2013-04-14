@@ -1,6 +1,6 @@
 == Welcome to Rails
 
-I added a line - Tom Joseph
+I added a line - Tom Joseph and then renamed to .md per book
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
